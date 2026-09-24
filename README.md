@@ -2,21 +2,25 @@
 
 # AETHERFORGE
 
-### Building experimental onchain systems, tools, and protocols.
+<img src="./assets/banner.png" alt="Aetherforge Banner" width="100%" />
 
-<br>
+<br><br>
 
-<p>
-  <img src="assets/ethereum.svg" height="42" alt="Ethereum" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/robinhood.svg" height="42" alt="Robinhood" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/arc.svg" height="42" alt="Arc" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=750&lines=Experimental+onchain+systems;Crypto-native+tools+and+protocols;Infrastructure+for+new+market+primitives" alt="Typing SVG" />
 
-<br>
+<br><br>
 
-<sub>Ethereum · Robinhood · Arc</sub>
+<img src="https://cdn.simpleicons.org/ethereum/627EEA" height="32" alt="Ethereum" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/solana/14F195" height="32" alt="Solana" />
+&nbsp;&nbsp;&nbsp;
+<img src="./assets/robinhood.svg" height="32" alt="Robinhood" />
+&nbsp;&nbsp;&nbsp;
+<img src="./assets/arc.svg" height="32" alt="Arc" />
+
+<br><br>
+
+**Building experimental onchain systems, tools, and protocols.**
 
 </div>
 
@@ -24,18 +28,25 @@
 
 ### About
 
-Aetherforge is a builder collective exploring new ideas across
-onchain infrastructure, markets, and experimental products.
-
-We build, test, and ship.
+Aetherforge is a builder collective focused on infrastructure, markets, and experimental crypto products.
 
 ---
 
-### Current Focus
+### Areas of Interest
+
+- Onchain infrastructure
+- Protocol design
+- Market primitives
+- Developer tooling
+- Experimental consumer crypto products
+
+---
+
+### Current Direction
 
 ```text
-ONCHAIN SYSTEMS
-├── Protocol Infrastructure
-├── Market Experiments
-├── Developer Tooling
-└── Experimental Products
+forge/
+├── research
+├── protocols
+├── tooling
+└── experiments
