@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**legends19/legends19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# AETHERFORGE
 
-Here are some ideas to get you started:
+### Building experimental onchain systems, tools, and protocols.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<p>
+  <img src="assets/ethereum.svg" height="42" alt="Ethereum" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/robinhood.svg" height="42" alt="Robinhood" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/arc.svg" height="42" alt="Arc" />
+</p>
+
+<br>
+
+<sub>Ethereum · Robinhood · Arc</sub>
+
+</div>
+
+---
+
+### About
+
+Aetherforge is a builder collective exploring new ideas across
+onchain infrastructure, markets, and experimental products.
+
+We build, test, and ship.
+
+---
+
+### Current Focus
+
+```text
+ONCHAIN SYSTEMS
+├── Protocol Infrastructure
+├── Market Experiments
+├── Developer Tooling
+└── Experimental Products
